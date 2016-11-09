@@ -84,7 +84,7 @@ var library =
               "album": "21",
               "song": "Set Fire to the Rain",
               "year": 2011
-            }
+            },
           ],
         }
       }
